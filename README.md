@@ -104,6 +104,42 @@ for name, model in models.items():
     print(f"{name} F1 Scores:", scores)
 ```
 
+
+
+![image](https://github.com/user-attachments/assets/071045f2-f61f-40ff-9b5f-81c928a015cf)
+This plot shows the 5-fold cross-validation F1 scores for three classification models: Random Forest, AdaBoost, and SVM.
+Random Forest performed consistently well, with F1 scores slightly above 0.91 across all folds.
+AdaBoost had stable performance around 0.87–0.88, with minor fluctuations.
+SVM also maintained strong results, slightly under Random Forest, but above 0.87 overall.
+Overall, Random Forest outperformed the others in terms of both stability and peak F1 score.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Tools Used
 
 - Python (Pandas, Scikit-learn, Imbalanced-learn)
