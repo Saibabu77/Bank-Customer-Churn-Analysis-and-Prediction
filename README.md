@@ -1,5 +1,3 @@
-# Bank-Customer-Churn-Analysis-and-Prediction
-Machine Learning
 This project involves an end-to-end analysis and modeling pipeline on a bank’s customer churn dataset. It includes exploratory data analysis (EDA), preprocessing, class balancing, dimensionality reduction, and supervised learning models.
 
 Dataset
